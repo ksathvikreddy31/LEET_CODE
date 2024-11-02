@@ -17,4 +17,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0414-third-maximum-number](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0414-third-maximum-number) |
+## Math
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0326-power-of-three) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
