@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0345-reverse-vowels-of-a-string) |
+| [0812-rotate-string](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0812-rotate-string) |
 ## Array
 |  |
 | ------- |
@@ -25,4 +26,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0326-power-of-three) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
