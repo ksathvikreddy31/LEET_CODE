@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0205-isomorphic-strings) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0345-reverse-vowels-of-a-string) |
 | [0812-rotate-string](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0812-rotate-string) |
 ## Array
@@ -46,4 +47,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0205-isomorphic-strings) |
 <!---LeetCode Topics End-->
