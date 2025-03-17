@@ -24,11 +24,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0002-add-two-numbers) |
 | [0202-happy-number](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0202-happy-number) |
 | [0326-power-of-three](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0326-power-of-three) |
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0002-add-two-numbers) |
 | [0326-power-of-three](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0326-power-of-three) |
 ## String Matching
 |  |
@@ -55,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2308-divide-array-into-equal-pairs](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/2308-divide-array-into-equal-pairs) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
