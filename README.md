@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0148-sort-list) |
 | [0202-happy-number](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0202-happy-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0345-reverse-vowels-of-a-string) |
 ## String
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0148-sort-list) |
 | [0414-third-maximum-number](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0414-third-maximum-number) |
 ## Math
 |  |
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0148-sort-list) |
 | [0190-reverse-bits](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0191-number-of-1-bits) |
 ## Bit Manipulation
@@ -61,4 +64,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0002-add-two-numbers) |
+| [0148-sort-list](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
