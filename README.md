@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0018-4sum) |
 | [0148-sort-list](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0148-sort-list) |
 | [0202-happy-number](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0202-happy-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0345-reverse-vowels-of-a-string) |
@@ -16,11 +17,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0018-4sum](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0018-4sum) |
 | [0414-third-maximum-number](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0414-third-maximum-number) |
 | [2308-divide-array-into-equal-pairs](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/2308-divide-array-into-equal-pairs) |
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0018-4sum) |
 | [0148-sort-list](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0148-sort-list) |
 | [0414-third-maximum-number](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0414-third-maximum-number) |
 ## Math
