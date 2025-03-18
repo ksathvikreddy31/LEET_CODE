@@ -34,12 +34,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0050-powx-n) |
 | [0202-happy-number](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0202-happy-number) |
 | [0326-power-of-three](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0326-power-of-three) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0050-powx-n) |
 | [0326-power-of-three](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0326-power-of-three) |
 ## String Matching
 |  |
