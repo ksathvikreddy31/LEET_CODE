@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0414-third-maximum-number) |
 | [2308-divide-array-into-equal-pairs](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/2308-divide-array-into-equal-pairs) |
+| [2478-longest-nice-subarray](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/2478-longest-nice-subarray) |
 ## Sorting
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0191-number-of-1-bits) |
 | [2308-divide-array-into-equal-pairs](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/2308-divide-array-into-equal-pairs) |
+| [2478-longest-nice-subarray](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/2478-longest-nice-subarray) |
 ## Hash Table
 |  |
 | ------- |
@@ -80,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0349-intersection-of-two-arrays) |
+## Sliding Window
+|  |
+| ------- |
+| [2478-longest-nice-subarray](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/2478-longest-nice-subarray) |
 <!---LeetCode Topics End-->
