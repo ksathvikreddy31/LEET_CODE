@@ -15,12 +15,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0205-isomorphic-strings) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0345-reverse-vowels-of-a-string) |
 | [0812-rotate-string](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0812-rotate-string) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Array
 |  |
 | ------- |
 | [0018-4sum](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0018-4sum) |
 | [0349-intersection-of-two-arrays](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0414-third-maximum-number) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/2478-longest-nice-subarray) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0205-isomorphic-strings) |
 | [0349-intersection-of-two-arrays](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0349-intersection-of-two-arrays) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/2308-divide-array-into-equal-pairs) |
 ## Counting
 |  |
@@ -108,5 +111,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+## Topological Sort
+|  |
+| ------- |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 <!---LeetCode Topics End-->
