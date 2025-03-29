@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2478-longest-nice-subarray](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/2478-longest-nice-subarray) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3001-apply-operations-to-maximize-score](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/3001-apply-operations-to-maximize-score) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3430-count-days-without-meetings](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/3430-count-days-without-meetings) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3001-apply-operations-to-maximize-score](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/3001-apply-operations-to-maximize-score) |
 | [3430-count-days-without-meetings](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Math
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0202-happy-number) |
 | [0326-power-of-three](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0326-power-of-three) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [3001-apply-operations-to-maximize-score](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/3001-apply-operations-to-maximize-score) |
 ## Recursion
 |  |
 | ------- |
@@ -155,4 +158,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+## Stack
+|  |
+| ------- |
+| [3001-apply-operations-to-maximize-score](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/3001-apply-operations-to-maximize-score) |
+## Greedy
+|  |
+| ------- |
+| [3001-apply-operations-to-maximize-score](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/3001-apply-operations-to-maximize-score) |
+## Monotonic Stack
+|  |
+| ------- |
+| [3001-apply-operations-to-maximize-score](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/3001-apply-operations-to-maximize-score) |
+## Number Theory
+|  |
+| ------- |
+| [3001-apply-operations-to-maximize-score](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/3001-apply-operations-to-maximize-score) |
 <!---LeetCode Topics End-->
