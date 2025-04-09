@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0144-binary-tree-preorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2793-count-the-number-of-complete-components](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/2793-count-the-number-of-complete-components) |
 ## Breadth-First Search
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0144-binary-tree-preorder-traversal) |
 | [3001-apply-operations-to-maximize-score](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/3001-apply-operations-to-maximize-score) |
 ## Greedy
 |  |
@@ -200,10 +202,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0144-binary-tree-preorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Binary Tree
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0144-binary-tree-preorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Backtracking
 |  |
