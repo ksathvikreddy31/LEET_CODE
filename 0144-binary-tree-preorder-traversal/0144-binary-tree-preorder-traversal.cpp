@@ -18,12 +18,12 @@ public:
        st.push(root);
        while(!st.empty())
        {
-            // TreeNode* node=st.top();4
-            root=st.top();
+            TreeNode *node=st.top();
+            // root=st.top();
             st.pop();
-            vec.push_back(root->val);
-            if(root->right!=NULL) st.push(root->right);
-            if(root->left!=NULL) st.push(root->left);
+            vec.push_back(node->val);
+            if(node->right!=NULL) st.push(node->right);
+            if(node->left!=NULL) st.push(node->left);
 
        }
        return vec;
