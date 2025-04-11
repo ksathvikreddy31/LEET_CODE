@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0326-power-of-three) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2998-count-symmetric-integers](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/2998-count-symmetric-integers) |
 | [3001-apply-operations-to-maximize-score](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/3001-apply-operations-to-maximize-score) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Recursion
@@ -229,4 +230,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2998-count-symmetric-integers](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/2998-count-symmetric-integers) |
 <!---LeetCode Topics End-->
