@@ -16,18 +16,16 @@ public:
        if(root==NULL) return vec;
        stack<TreeNode*>st;
        st.push(root);
-       while(!st.empty())
-       {
+    //    TreeNode *node=root;
+        while(!st.empty())
+        {
             TreeNode *node=st.top();
-            // root=st.top();
             st.pop();
             vec.push_back(node->val);
             if(node->right!=NULL) st.push(node->right);
             if(node->left!=NULL) st.push(node->left);
-
-       }
-       return vec;
-
-  
+            
+        }
+        return vec;
     }
 };
