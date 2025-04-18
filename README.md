@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0038-count-and-say) |
 | [0205-isomorphic-strings](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0205-isomorphic-strings) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0345-reverse-vowels-of-a-string) |
 | [0768-partition-labels](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0768-partition-labels) |
