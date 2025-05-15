@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0868-push-dominoes](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0868-push-dominoes) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2712-find-the-maximum-number-of-marked-indices](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/2712-find-the-maximum-number-of-marked-indices) |
 ## String
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2626-count-the-number-of-good-subarrays](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2681-put-marbles-in-bags](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/2681-put-marbles-in-bags) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2712-find-the-maximum-number-of-marked-indices](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/2712-find-the-maximum-number-of-marked-indices) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2915-count-of-interesting-subarrays](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/2915-count-of-interesting-subarrays) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/2681-put-marbles-in-bags) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2712-find-the-maximum-number-of-marked-indices](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/2712-find-the-maximum-number-of-marked-indices) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3001-apply-operations-to-maximize-score](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/3001-apply-operations-to-maximize-score) |
 | [3430-count-days-without-meetings](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/3430-count-days-without-meetings) |
@@ -166,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2280-count-good-triplets-in-an-array](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/2280-count-good-triplets-in-an-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2712-find-the-maximum-number-of-marked-indices](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/2712-find-the-maximum-number-of-marked-indices) |
 ## Sliding Window
 |  |
 | ------- |
@@ -252,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2681-put-marbles-in-bags](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/2681-put-marbles-in-bags) |
+| [2712-find-the-maximum-number-of-marked-indices](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/2712-find-the-maximum-number-of-marked-indices) |
 | [3001-apply-operations-to-maximize-score](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/3001-apply-operations-to-maximize-score) |
 ## Monotonic Stack
 |  |
