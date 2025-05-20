@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0349-intersection-of-two-arrays) |
 | [0768-partition-labels](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0768-partition-labels) |
+| [0811-number-of-subarrays-with-bounded-maximum](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
 | [0868-push-dominoes](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0868-push-dominoes) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0416-partition-equal-subset-sum) |
 | [0792-binary-search](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0792-binary-search) |
+| [0811-number-of-subarrays-with-bounded-maximum](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1184-car-pooling](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/1184-car-pooling) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/1227-number-of-equivalent-domino-pairs) |
