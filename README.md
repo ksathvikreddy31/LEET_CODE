@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0868-push-dominoes](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0868-push-dominoes) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3354-replace-question-marks-in-string-to-minimize-its-value](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/3354-replace-question-marks-in-string-to-minimize-its-value) |
 ## Array
 |  |
 | ------- |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/2712-find-the-maximum-number-of-marked-indices) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3001-apply-operations-to-maximize-score](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/3001-apply-operations-to-maximize-score) |
+| [3354-replace-question-marks-in-string-to-minimize-its-value](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/3354-replace-question-marks-in-string-to-minimize-its-value) |
 | [3430-count-days-without-meetings](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Math
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2856-count-complete-subarrays-in-an-array](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2915-count-of-interesting-subarrays](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/2915-count-of-interesting-subarrays) |
+| [3354-replace-question-marks-in-string-to-minimize-its-value](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/3354-replace-question-marks-in-string-to-minimize-its-value) |
 | [3548-find-the-count-of-good-integers](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/3548-find-the-count-of-good-integers) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## Counting
@@ -151,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [2308-divide-array-into-equal-pairs](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/2308-divide-array-into-equal-pairs) |
+| [3354-replace-question-marks-in-string-to-minimize-its-value](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/3354-replace-question-marks-in-string-to-minimize-its-value) |
 ## Linked List
 |  |
 | ------- |
@@ -244,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1184-car-pooling](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/1184-car-pooling) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/2681-put-marbles-in-bags) |
+| [3354-replace-question-marks-in-string-to-minimize-its-value](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/3354-replace-question-marks-in-string-to-minimize-its-value) |
 ## Stack
 |  |
 | ------- |
@@ -260,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2681-put-marbles-in-bags](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/2681-put-marbles-in-bags) |
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/2712-find-the-maximum-number-of-marked-indices) |
 | [3001-apply-operations-to-maximize-score](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/3001-apply-operations-to-maximize-score) |
+| [3354-replace-question-marks-in-string-to-minimize-its-value](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/3354-replace-question-marks-in-string-to-minimize-its-value) |
 ## Monotonic Stack
 |  |
 | ------- |
