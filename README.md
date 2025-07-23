@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0018-4sum) |
+| [0041-first-missing-positive](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0041-first-missing-positive) |
 | [0136-single-number](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0137-single-number-ii) |
 | [0229-majority-element-ii](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0229-majority-element-ii) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0041-first-missing-positive) |
 | [0202-happy-number](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0229-majority-element-ii) |
