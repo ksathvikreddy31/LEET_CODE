@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0041-first-missing-positive) |
 | [0136-single-number](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0137-single-number-ii) |
+| [0169-majority-element](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0414-third-maximum-number) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0018-4sum) |
 | [0148-sort-list](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0414-third-maximum-number) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0191-number-of-1-bits) |
 | [2280-count-good-triplets-in-an-array](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/2280-count-good-triplets-in-an-array) |
@@ -146,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0041-first-missing-positive) |
+| [0169-majority-element](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0229-majority-element-ii) |
@@ -169,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0387-first-unique-character-in-a-string) |
