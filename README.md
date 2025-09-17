@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0768-partition-labels) |
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
 | [0868-push-dominoes](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0868-push-dominoes) |
+| [0941-sort-array-by-parity](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0941-sort-array-by-parity) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/2712-find-the-maximum-number-of-marked-indices) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0792-binary-search) |
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
+| [0941-sort-array-by-parity](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0941-sort-array-by-parity) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1184-car-pooling](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/1184-car-pooling) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0414-third-maximum-number) |
+| [0941-sort-array-by-parity](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0941-sort-array-by-parity) |
 | [1184-car-pooling](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/1184-car-pooling) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
