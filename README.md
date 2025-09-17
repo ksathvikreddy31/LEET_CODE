@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0018-4sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0041-first-missing-positive) |
+| [0048-rotate-image](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0048-rotate-image) |
 | [0136-single-number](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0169-majority-element) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0002-add-two-numbers) |
+| [0048-rotate-image](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0202-happy-number) |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0048-rotate-image) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Heap (Priority Queue)
