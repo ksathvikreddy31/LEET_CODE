@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0018-4sum) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0041-first-missing-positive) |
 | [0136-single-number](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0137-single-number-ii) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0349-intersection-of-two-arrays) |
 | [0792-binary-search](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0792-binary-search) |
 | [1646-kth-missing-positive-number](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/1646-kth-missing-positive-number) |
