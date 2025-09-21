@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0387-first-unique-character-in-a-string) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/2527-count-subarrays-with-fixed-bounds) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0145-binary-tree-postorder-traversal) |
+| [0232-implement-queue-using-stacks](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0232-implement-queue-using-stacks) |
 | [0735-asteroid-collision](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0735-asteroid-collision) |
 | [3001-apply-operations-to-maximize-score](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/3001-apply-operations-to-maximize-score) |
 ## Greedy
@@ -398,4 +400,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0735-asteroid-collision](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0735-asteroid-collision) |
 | [1184-car-pooling](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/1184-car-pooling) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
