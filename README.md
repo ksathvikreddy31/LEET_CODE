@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0416-partition-equal-subset-sum) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0414-third-maximum-number) |
 | [0941-sort-array-by-parity](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0941-sort-array-by-parity) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0326-power-of-three) |
 | [1500-count-largest-group](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/1500-count-largest-group) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -152,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0268-missing-number) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2308-divide-array-into-equal-pairs](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/2478-longest-nice-subarray) |
@@ -166,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0387-first-unique-character-in-a-string) |
@@ -211,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0268-missing-number](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0349-intersection-of-two-arrays) |
 | [0792-binary-search](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0792-binary-search) |
 | [1646-kth-missing-positive-number](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/1646-kth-missing-positive-number) |
