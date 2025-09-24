@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0005-longest-palindromic-substring) |
 | [0018-4sum](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0141-linked-list-cycle) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0005-longest-palindromic-substring) |
 | [0038-count-and-say](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0038-count-and-say) |
 | [0165-compare-version-numbers](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0165-compare-version-numbers) |
 | [0205-isomorphic-strings](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0205-isomorphic-strings) |
@@ -353,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0005-longest-palindromic-substring) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0416-partition-equal-subset-sum) |
 | [0806-domino-and-tromino-tiling](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0806-domino-and-tromino-tiling) |
