@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0005-longest-palindromic-substring) |
 | [0038-count-and-say](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0038-count-and-say) |
 | [0165-compare-version-numbers](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0165-compare-version-numbers) |
+| [0166-fraction-to-recurring-decimal](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0166-fraction-to-recurring-decimal) |
 | [0205-isomorphic-strings](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0205-isomorphic-strings) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0383-ransom-note) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0050-powx-n) |
+| [0166-fraction-to-recurring-decimal](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0166-fraction-to-recurring-decimal) |
 | [0189-rotate-array](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0268-missing-number) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0141-linked-list-cycle) |
+| [0166-fraction-to-recurring-decimal](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0205-isomorphic-strings) |
