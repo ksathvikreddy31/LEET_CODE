@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2681-put-marbles-in-bags](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/2681-put-marbles-in-bags) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/2712-find-the-maximum-number-of-marked-indices) |
+| [2728-sum-in-a-matrix](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/2728-sum-in-a-matrix) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2915-count-of-interesting-subarrays](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/2915-count-of-interesting-subarrays) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2681-put-marbles-in-bags](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/2681-put-marbles-in-bags) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/2712-find-the-maximum-number-of-marked-indices) |
+| [2728-sum-in-a-matrix](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/2728-sum-in-a-matrix) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3001-apply-operations-to-maximize-score](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/3001-apply-operations-to-maximize-score) |
 | [3354-replace-question-marks-in-string-to-minimize-its-value](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/3354-replace-question-marks-in-string-to-minimize-its-value) |
@@ -317,12 +319,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0073-set-matrix-zeroes) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [2728-sum-in-a-matrix](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/2728-sum-in-a-matrix) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [1184-car-pooling](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/1184-car-pooling) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/2681-put-marbles-in-bags) |
+| [2728-sum-in-a-matrix](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/2728-sum-in-a-matrix) |
 | [3354-replace-question-marks-in-string-to-minimize-its-value](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/3354-replace-question-marks-in-string-to-minimize-its-value) |
 ## Stack
 |  |
@@ -431,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0735-asteroid-collision](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0735-asteroid-collision) |
 | [1184-car-pooling](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/1184-car-pooling) |
+| [2728-sum-in-a-matrix](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/2728-sum-in-a-matrix) |
 ## Design
 |  |
 | ------- |
