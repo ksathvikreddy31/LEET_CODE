@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0073-set-matrix-zeroes) |
+| [0120-triangle](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0120-triangle) |
 | [0136-single-number](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0169-majority-element) |
@@ -365,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0005-longest-palindromic-substring) |
+| [0120-triangle](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0120-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0416-partition-equal-subset-sum) |
 | [0806-domino-and-tromino-tiling](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0806-domino-and-tromino-tiling) |
