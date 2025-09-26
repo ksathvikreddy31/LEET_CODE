@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0234-palindrome-linked-list) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0349-intersection-of-two-arrays) |
+| [0611-valid-triangle-number](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0611-valid-triangle-number) |
 | [0768-partition-labels](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0768-partition-labels) |
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
 | [0868-push-dominoes](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0868-push-dominoes) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0416-partition-equal-subset-sum) |
+| [0611-valid-triangle-number](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0611-valid-triangle-number) |
 | [0735-asteroid-collision](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0792-binary-search) |
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0414-third-maximum-number) |
+| [0611-valid-triangle-number](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0611-valid-triangle-number) |
 | [0941-sort-array-by-parity](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0941-sort-array-by-parity) |
 | [1184-car-pooling](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/1184-car-pooling) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -236,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0268-missing-number](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0349-intersection-of-two-arrays) |
+| [0611-valid-triangle-number](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0611-valid-triangle-number) |
 | [0792-binary-search](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0792-binary-search) |
 | [1646-kth-missing-positive-number](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/1646-kth-missing-positive-number) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -345,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0611-valid-triangle-number](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0611-valid-triangle-number) |
 | [0768-partition-labels](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0768-partition-labels) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
