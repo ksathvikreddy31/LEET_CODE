@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0792-binary-search) |
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
+| [0830-largest-triangle-area](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0830-largest-triangle-area) |
 | [0941-sort-array-by-parity](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0941-sort-array-by-parity) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1184-car-pooling](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/1184-car-pooling) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0326-power-of-three) |
+| [0830-largest-triangle-area](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0830-largest-triangle-area) |
 | [1500-count-largest-group](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/1500-count-largest-group) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -450,4 +452,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0232-implement-queue-using-stacks) |
+## Geometry
+|  |
+| ------- |
+| [0830-largest-triangle-area](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0830-largest-triangle-area) |
 <!---LeetCode Topics End-->
