@@ -10,8 +10,8 @@ public:
 
         ListNode* temp = head;
         while (temp != nullptr) {
-            ListNode* newnode = temp->next; // store next
-            temp->next = nullptr;           // detach current node
+            ListNode* newnode = temp->next; 
+            temp->next = nullptr;           
 
             if (temp->val < x) {
                 lx->next = temp;
@@ -24,9 +24,9 @@ public:
             temp = newnode;
         }
 
-        gx->next = nullptr;      // terminate >= x list
-        lx->next = gc.next;      // merge lists
+        gx->next = nullptr;     
+        lx->next = gc.next;   
 
-        return lc.next;          // skip dummy head
+        return lc.next;        
     }
 };
