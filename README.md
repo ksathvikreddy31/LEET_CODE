@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0941-sort-array-by-parity) |
 | [1018-largest-perimeter-triangle](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/1018-largest-perimeter-triangle) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1184-car-pooling](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/1184-car-pooling) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1646-kth-missing-positive-number](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/1646-kth-missing-positive-number) |
@@ -397,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0416-partition-equal-subset-sum) |
 | [0806-domino-and-tromino-tiling](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0868-push-dominoes) |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [2262-solving-questions-with-brainpower](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/2262-solving-questions-with-brainpower) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/3243-count-the-number-of-powerful-integers) |
