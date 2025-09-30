@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0005-longest-palindromic-substring) |
+| [0014-longest-common-prefix](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0014-longest-common-prefix) |
 | [0038-count-and-say](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0038-count-and-say) |
 | [0165-compare-version-numbers](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0166-fraction-to-recurring-decimal) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0014-longest-common-prefix) |
 | [0018-4sum](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0018-4sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0041-first-missing-positive) |
@@ -477,4 +479,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0830-largest-triangle-area) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/ksathvikreddy31/LEET_CODE/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
